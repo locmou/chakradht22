@@ -7,6 +7,13 @@
   
   The above copyright notice and this permission notice shall be included in all
   copies or substantial portions of the Software.
+
+
+Sur generic ESP8266 module...
+Schéma joint
+
+
+  
 */
 
 #include "DHT.h"
