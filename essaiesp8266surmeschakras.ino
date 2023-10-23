@@ -9,7 +9,7 @@
   copies or substantial portions of the Software.
 
 
-Sur generic ESP8266 module...
+Sur board : "generic ESP8266 module"...
 Schéma joint
 
 
@@ -35,7 +35,10 @@ Schéma joint
 #define MQTT_PUB_HUM "humidité minicapt "
 
 // Digital pin connected to the DHT sensor
-#define DHTPIN 14  
+// **********************************************************
+// Corrigé selon des infos glânées sur le web ***************
+//***********************************************************
+#define DHTPIN 2  
 
 // Uncomment whatever DHT sensor type you're using
 //#define DHTTYPE DHT11   // DHT 11
