@@ -133,7 +133,7 @@ void setup() {
   mqttClient.onPublish(onMqttPublish);
   mqttClient.setServer(MQTT_HOST, MQTT_PORT);
   // If your broker requires authentication (username and password), set them below
-  mqttClient.setCredentials("homeassistant ", "ik6Dei0heShaideeCiezahx7ula0ohf3ohtoph8fahweiveijohxeiphazoh7aiP");
+  mqttClient.setCredentials("homeassistant", "ik6Dei0heShaideeCiezahx7ula0ohf3ohtoph8fahweiveijohxeiphazoh7aiP");
   
   connectToWifi();
 }
