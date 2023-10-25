@@ -9,8 +9,10 @@
   copies or substantial portions of the Software.
 
 
-Sur board : "generic ESP8266 module"...
+Type de carte : "generic ESP8266 module"...
 Schéma joint
+Lien vers la fabrication du uploader
+https://technoreview85.com/how-to-program-esp8266-esp-01-module-with-arduino-uno-easy-way/
 
 
   
